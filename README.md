@@ -20,6 +20,8 @@ Drink Page             |  Dessert Page                | Order Page
 :-------------------------:|:-------------------------:|:-------------------------:
 ![minuman](https://user-images.githubusercontent.com/85094525/230771455-59e12816-da3e-43db-8bfc-ef93c4fc8569.jpg) | ![kue](https://user-images.githubusercontent.com/85094525/230771463-4b5e5752-fe7b-44a3-81cb-e655fcde55c3.jpg) | ![pesanan](https://user-images.githubusercontent.com/85094525/230771467-2ed9a41f-bd69-4b4b-82ff-fd1e35e6eafc.jpg) 
 
-List Order Page             |  Kitchen Page                | Delete Item Kitchen
+List Order Page             |  Kitchen Page                | Detail Kitchen
 :-------------------------:|:-------------------------:|:-------------------------:
-![list pesanan](https://user-images.githubusercontent.com/85094525/230771470-98d668ba-6a49-4ecb-b02b-84bfb17b1ac0.jpg) | ![dapur](https://user-images.githubusercontent.com/85094525/230771474-8a646a7b-c26d-4289-90ac-e186b419037e.jpg) | ![hapus dapur](https://user-images.githubusercontent.com/85094525/230771479-b985e939-9179-4328-80ff-1a0e02bbfe0a.jpg)
+![list pesanan](https://user-images.githubusercontent.com/85094525/230771470-98d668ba-6a49-4ecb-b02b-84bfb17b1ac0.jpg) | ![dapur](https://user-images.githubusercontent.com/85094525/230771474-8a646a7b-c26d-4289-90ac-e186b419037e.jpg) | ![detail](https://user-images.githubusercontent.com/85094525/230772105-3536bc51-4c5d-4993-a8e7-ab296b00bd68.jpg)
+
+
